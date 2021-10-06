@@ -59,23 +59,23 @@ p {
     background-position: center;
 }
 
-.float-left {
+ section .float-left {
     float: left;
     margin-right: 25px;
 }
 
-.float-right {
+ section .float-right {
     float: right;
     margin-left: 25px;
 }
 
-.content {
+ section  {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+.two {
     margin-right: 20px;
     padding: 20px;
     clear: both;
